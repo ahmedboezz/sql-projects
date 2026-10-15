@@ -29,3 +29,6 @@ CTEs, window functions (`ROW_NUMBER`, `DENSE_RANK`, `LAG`, running `SUM`, `PERCE
 | Concentration | Top 5% of members = **36% of cost**; chronic members cost **2.2x** per member |
 | Outliers | 3 providers bill **7-8 standard deviations** above peers, with 33% partial approvals (possible up-coding) |
 | Seasonality | Respiratory claims rise ~30% in Nov-Dec |
+
+---
+© 2026 Ahmed Abdulsalam. All rights reserved. See [LICENSE](../LICENSE).

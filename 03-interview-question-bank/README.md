@@ -15,3 +15,6 @@ Joins and anti-joins · aggregation and HAVING · self-joins · `ROW_NUMBER` / `
 ```bash
 sqlcmd -S "(localdb)\MSSQLLocalDB" -E -i 00_setup_practice_db.sql
 ```
+
+---
+© 2026 Ahmed Abdulsalam. All rights reserved. See [LICENSE](../LICENSE).

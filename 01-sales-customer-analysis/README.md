@@ -116,3 +116,6 @@ sqlcmd -S .\SQLEXPRESS -E -C -i sql/03_views.sql
 REM 3. run the analysis in SSMS (04_analysis.sql), or save every result at once:
 python run_analysis.py .\SQLEXPRESS
 ```
+
+---
+© 2026 Ahmed Abdulsalam. All rights reserved. See [LICENSE](../LICENSE).
