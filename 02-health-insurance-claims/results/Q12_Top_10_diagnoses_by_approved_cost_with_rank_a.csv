@@ -1,0 +1,11 @@
+CostRank,ICD10Code,Diagnosis,Claims,Approved,CumulativeShare
+1,O80,Normal delivery,3560,55227870.0,0.1557
+2,I21.9,Acute myocardial infarction,1292,52536598.0,0.3039
+3,A09,Gastroenteritis,23715,36396852.0,0.4065
+4,C50.9,Breast cancer,875,34957541.0,0.5051
+5,J06.9,Acute upper respiratory infection,77601,30527136.0,0.5911
+6,S93.4,Ankle sprain,17376,28080512.0,0.6703
+7,J20.9,Acute bronchitis,49977,19769701.0,0.7261
+8,E78.5,Hyperlipidaemia,14942,13011208.0,0.7628
+9,K02.9,Dental caries,17882,12836630.0,0.7989
+10,E11.9,Type 2 diabetes mellitus,15054,12834096.0,0.8351

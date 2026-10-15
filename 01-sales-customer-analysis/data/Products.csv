@@ -1,0 +1,61 @@
+ProductID,SKU,ProductName,Category,SubCategory,Brand,SupplierID,StandardCost,ListPrice
+1,SKU-0001,Galaxy A55 128GB,Mobiles & Accessories,Smartphones,Samsung,1,1150.0,1419.0
+2,SKU-0002,Galaxy S24 256GB,Mobiles & Accessories,Smartphones,Samsung,1,2950.0,3464.0
+3,SKU-0003,iPhone 15 128GB,Mobiles & Accessories,Smartphones,Apple,1,3100.0,3884.0
+4,SKU-0004,iPhone 13 128GB,Mobiles & Accessories,Smartphones,Apple,1,2150.0,2714.0
+5,SKU-0005,Redmi Note 13,Mobiles & Accessories,Smartphones,Xiaomi,1,640.0,729.0
+6,SKU-0006,Nova 11,Mobiles & Accessories,Smartphones,Huawei,1,980.0,1139.0
+7,SKU-0007,20W USB-C Charger,Mobiles & Accessories,Accessories,Anker,1,38.0,84.0
+8,SKU-0008,Power Bank 10000mAh,Mobiles & Accessories,Accessories,Anker,1,70.0,149.0
+9,SKU-0009,AirPods (3rd gen),Mobiles & Accessories,Accessories,Apple,1,560.0,1244.0
+10,SKU-0010,Tempered Glass Screen Protector,Mobiles & Accessories,Accessories,Generic,1,6.0,12.6
+11,SKU-0011,Phone Case,Mobiles & Accessories,Accessories,Spigen,1,22.0,49.0
+12,SKU-0012,Galaxy Buds FE,Mobiles & Accessories,Accessories,Samsung,1,260.0,609.0
+13,SKU-0013,IdeaPad Slim 3 i5,Computers,Laptops,Lenovo,2,1850.0,2179.0
+14,SKU-0014,Pavilion 15 i7,Computers,Laptops,HP,2,2700.0,3309.0
+15,SKU-0015,MacBook Air M2,Computers,Laptops,Apple,2,3300.0,3944.0
+16,SKU-0016,Inspiron 14 i5 (2022),Computers,Laptops,Dell,2,2050.0,2339.0
+17,SKU-0017,iPad 10th gen,Computers,Tablets,Apple,2,1350.0,1609.0
+18,SKU-0018,Galaxy Tab A9,Computers,Tablets,Samsung,2,520.0,589.0
+19,SKU-0019,Wireless Mouse M185,Computers,Peripherals,Logitech,2,35.0,84.0
+20,SKU-0020,Keyboard K120,Computers,Peripherals,Logitech,2,30.0,64.0
+21,SKU-0021,LaserJet M111 Printer,Computers,Peripherals,HP,2,420.0,919.0
+22,SKU-0022,USB Flash 64GB,Computers,Peripherals,SanDisk,2,18.0,38.3
+23,SKU-0023,Split AC 18000 BTU,Home Appliances,Cooling,Gree,3,1650.0,2279.0
+24,SKU-0024,Window AC 18000 BTU,Home Appliances,Cooling,Midea,3,1150.0,1504.0
+25,SKU-0025,Stand Fan 16 inch,Home Appliances,Cooling,Generic,3,85.0,109.0
+26,SKU-0026,Washing Machine 9kg,Home Appliances,Laundry,LG,3,1450.0,1879.0
+27,SKU-0027,Refrigerator 18 cu.ft,Home Appliances,Refrigeration,Samsung,3,2100.0,2819.0
+28,SKU-0028,Vacuum Cleaner 2000W,Home Appliances,Small Appliances,Philips,3,330.0,439.0
+29,SKU-0029,Steam Iron,Home Appliances,Small Appliances,Tefal,3,95.0,124.0
+30,SKU-0030,Water Kettle 1.7L,Home Appliances,Small Appliances,Kenwood,3,60.0,79.0
+31,SKU-0031,Microwave 25L,Home Appliances,Small Appliances,Sharp,3,290.0,414.0
+32,SKU-0032,Air Fryer 5L,Home Appliances,Small Appliances,Black+Decker,3,230.0,299.0
+33,SKU-0033,Non-stick Pot Set 7pcs,Kitchenware,Cookware,Tefal,4,210.0,329.0
+34,SKU-0034,Pressure Cooker 7L,Kitchenware,Cookware,Prestige,4,140.0,214.0
+35,SKU-0035,Dinner Set 38pcs,Kitchenware,Tableware,Luminarc,4,180.0,299.0
+36,SKU-0036,Tea & Coffee Serving Set,Kitchenware,Tableware,Generic,4,95.0,159.0
+37,SKU-0037,Arabic Dallah Thermos 1L,Kitchenware,Tableware,Generic,4,45.0,69.0
+38,SKU-0038,Food Storage Set,Kitchenware,Storage,Tupperware,4,65.0,99.0
+39,SKU-0039,Knife Set 6pcs,Kitchenware,Utensils,Generic,4,55.0,84.0
+40,SKU-0040,Serving Tray Large,Kitchenware,Utensils,Generic,4,40.0,64.0
+41,SKU-0041,Blender 1.5L,Kitchenware,Small Appliances,Moulinex,4,150.0,249.0
+42,SKU-0042,Stand Mixer,Kitchenware,Small Appliances,Kenwood,4,520.0,859.0
+43,SKU-0043,Beard Trimmer,Personal Care,Grooming,Philips,5,110.0,164.0
+44,SKU-0044,Electric Shaver Series 5,Personal Care,Grooming,Braun,5,330.0,514.0
+45,SKU-0045,Hair Dryer 2100W,Personal Care,Hair Care,Philips,5,95.0,144.0
+46,SKU-0046,Hair Straightener,Personal Care,Hair Care,BaByliss,5,140.0,219.0
+47,SKU-0047,Electric Toothbrush Pro 3,Personal Care,Oral Care,Oral-B,5,150.0,239.0
+48,SKU-0048,Oud Perfume 100ml,Personal Care,Fragrance,Arabian Oud,5,160.0,249.0
+49,SKU-0049,Electric Bakhoor Burner,Personal Care,Fragrance,Generic,5,45.0,69.0
+50,SKU-0050,Blood Pressure Monitor,Personal Care,Health,Omron,5,165.0,254.0
+51,SKU-0051,School Backpack,Stationery & School,School Bags,Generic,6,55.0,94.0
+52,SKU-0052,Lunch Box Set,Stationery & School,School Bags,Generic,6,22.0,39.0
+53,SKU-0053,Colored Pencils 24,Stationery & School,Writing,Faber-Castell,6,14.0,22.4
+54,SKU-0054,Pen Pack 10,Stationery & School,Writing,Pilot,6,9.0,15.3
+55,SKU-0055,A4 Paper Ream,Stationery & School,Paper,Double A,6,17.0,28.6
+56,SKU-0056,Notebook Pack 5,Stationery & School,Paper,Generic,6,16.0,26.7
+57,SKU-0057,Scientific Calculator fx-991,Stationery & School,Calculators,Casio,6,55.0,94.0
+58,SKU-0058,Geometry Set,Stationery & School,Art,Generic,6,10.0,18.7
+59,SKU-0059,Drawing Kit,Stationery & School,Art,Generic,6,35.0,59.0
+60,SKU-0060,Whiteboard Markers 4,Stationery & School,Writing,Generic,6,11.0,20.0

@@ -1,0 +1,7 @@
+Segment,Customers,AvgRecencyDays,AvgInvoices,Revenue,RevenueSharePct
+1. Champions,991,14.0,67.8,59512708.0,67.8
+2. Loyal,932,42.0,16.5,13040954.0,14.9
+3. New / Promising,311,20.0,3.5,978430.0,1.1
+"4. At Risk (were good, now inactive)",618,324.0,18.9,10296231.0,11.7
+5. Lost / Hibernating,1076,429.0,3.2,3098807.0,3.5
+6. Needs Attention,307,63.0,3.2,862028.0,1.0

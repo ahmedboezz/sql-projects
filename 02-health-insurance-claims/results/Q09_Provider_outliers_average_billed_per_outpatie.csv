@@ -1,0 +1,4 @@
+ProviderID,ProviderType,ProviderCity,Claims,AvgBilled,ZScore,PartialApprovalRate
+PRV0015,Hospital,Riyadh,809,940.77,8.14,0.3313
+PRV0140,Polyclinic,Tabuk,952,988.13,7.6,0.333
+PRV0101,Polyclinic,Jeddah,934,984.54,7.55,0.3126

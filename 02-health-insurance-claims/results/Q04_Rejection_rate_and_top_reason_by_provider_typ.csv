@@ -1,0 +1,5 @@
+ProviderType,Claims,RejectionRate,TopReason
+Polyclinic,141642,0.0603,Missing pre-authorization
+Pharmacy,102093,0.0597,Missing pre-authorization
+Hospital,69243,0.0596,Missing pre-authorization
+Laboratory,27279,0.0591,Missing pre-authorization

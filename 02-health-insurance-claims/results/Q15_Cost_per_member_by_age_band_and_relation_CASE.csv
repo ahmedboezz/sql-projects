@@ -1,0 +1,13 @@
+AgeBand,RelationToEmployee,ClaimingMembers,CostPerClaimingMember
+0-17,Child,1467,8878.91
+0-17,Employee,2844,8522.77
+0-17,Spouse,935,8140.67
+18-34,Child,4994,8340.96
+18-34,Employee,10148,8312.26
+18-34,Spouse,3271,8306.61
+35-49,Child,3910,8372.06
+35-49,Employee,8008,8444.64
+35-49,Spouse,2742,8199.15
+50+,Child,1102,8050.99
+50+,Employee,2196,8323.17
+50+,Spouse,761,8674.74

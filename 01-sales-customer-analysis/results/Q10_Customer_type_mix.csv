@@ -1,0 +1,4 @@
+CustomerType,Customers,Revenue,RevenueSharePct,AvgInvoiceValue,InvoicesPerCustomer,GrossMarginPct
+Retail,3625,54788753.0,62.4,884.0,17.1,23.2
+Corporate,235,17167513.0,19.6,873.0,83.7,20.6
+Wholesale,375,15832892.0,18.0,868.0,48.6,20.8

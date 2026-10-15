@@ -1,0 +1,11 @@
+Rank,CustomerName,CustomerType,Invoices,Revenue,SharePct,LastPurchase,DaysSinceLastPurchase
+1,Afaq Trading Co.,Wholesale,573,547726.0,0.62,2025-12-31,0
+2,Al Riyada Contracting,Corporate,583,527249.0,0.6,2025-12-29,2
+3,Al Noor Office Solutions,Corporate,539,517918.0,0.59,2025-12-30,1
+4,Al Khaleej Schools,Wholesale,533,511341.0,0.58,2025-12-31,0
+5,Al Khaleej Schools,Corporate,520,501803.0,0.57,2025-12-18,13
+6,Al Riyada Real Estate,Wholesale,577,501661.0,0.57,2025-12-31,0
+7,Tihama Trading Co.,Corporate,555,491354.0,0.56,2025-12-29,2
+8,Omar Al-Qahtani,Retail,500,489670.0,0.56,2025-12-22,9
+9,Al Noor Trading Co.,Corporate,545,467134.0,0.53,2025-12-27,4
+10,Al Waha Est.,Corporate,529,457885.0,0.52,2025-12-28,3

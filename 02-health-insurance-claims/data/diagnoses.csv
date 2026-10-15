@@ -1,0 +1,18 @@
+ICD10Code,Description,Chapter,ChapterName
+J06.9,Acute upper respiratory infection,J,Respiratory
+J20.9,Acute bronchitis,J,Respiratory
+J45.9,Asthma,J,Respiratory
+E11.9,Type 2 diabetes mellitus,E,Endocrine
+I10,Essential hypertension,I,Circulatory
+E78.5,Hyperlipidaemia,E,Endocrine
+M54.5,Low back pain,M,Musculoskeletal
+K21.9,Gastro-oesophageal reflux,K,Digestive
+A09,Gastroenteritis,A,Infectious
+N39.0,Urinary tract infection,N,Genitourinary
+H52.4,Presbyopia,H,Eye
+K02.9,Dental caries,K,Digestive
+O80,Normal delivery,O,Pregnancy
+S93.4,Ankle sprain,S,Injury
+Z00.0,General medical examination,Z,Factors
+C50.9,Breast cancer,C,Neoplasms
+I21.9,Acute myocardial infarction,I,Circulatory

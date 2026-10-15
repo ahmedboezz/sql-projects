@@ -1,0 +1,6 @@
+ProviderID,ProviderType,RejRate_JanMay,RejRate_JunDec,MissingPreAuth
+PRV0007,Hospital,0.049,0.3102,176
+PRV0123,Polyclinic,0.0289,0.0629,19
+PRV0139,Polyclinic,0.0378,0.0709,16
+PRV0116,Polyclinic,0.0509,0.0824,21
+PRV0144,Polyclinic,0.0398,0.0708,19

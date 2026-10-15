@@ -1,0 +1,15 @@
+SalesYear,BranchCode,BranchName,Revenue,SharePct,GrossMarginPct,YoYPct,RankInYear
+2023,RUH-01,Riyadh - Olaya,7811041.0,30.3,22.3,,1
+2023,JED-01,Jeddah - Tahlia,7481804.0,29.0,22.4,,2
+2023,JED-02,Jeddah - Al Safa,5596244.0,21.7,22.2,,3
+2023,DMM-01,Dammam - Corniche,4916655.0,19.1,21.8,,4
+2024,RUH-01,Riyadh - Olaya,8882253.0,30.0,22.2,13.7,1
+2024,JED-01,Jeddah - Tahlia,7878111.0,26.6,22.6,5.3,2
+2024,JED-02,Jeddah - Al Safa,6060813.0,20.5,22.1,8.3,3
+2024,DMM-01,Dammam - Corniche,5260514.0,17.8,22.2,7.0,4
+2024,MKK-01,Makkah - Al Awali,1520846.0,5.1,21.7,,5
+2025,RUH-01,Riyadh - Olaya,9402069.0,29.0,22.2,5.9,1
+2025,JED-01,Jeddah - Tahlia,7825580.0,24.2,22.4,-0.7,2
+2025,JED-02,Jeddah - Al Safa,6114229.0,18.9,22.7,0.9,3
+2025,MKK-01,Makkah - Al Awali,4783463.0,14.8,22.5,214.5,4
+2025,DMM-01,Dammam - Corniche,4255538.0,13.1,22.3,-19.1,5

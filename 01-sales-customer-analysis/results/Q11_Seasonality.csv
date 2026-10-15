@@ -1,0 +1,13 @@
+SalesMonth,MonthName,AvgRevenue,SeasonalIndex,StrengthRank
+1,January,2027131.0,83.0,11
+2,February,1937561.0,79.0,12
+3,March,2520385.0,103.0,3
+4,April,2480342.0,102.0,5
+5,May,2428383.0,100.0,6
+6,June,2335538.0,96.0,9
+7,July,2518792.0,103.0,4
+8,August,2838323.0,116.0,2
+9,September,2395331.0,98.0,8
+10,October,2406086.0,99.0,7
+11,November,3189534.0,131.0,1
+12,December,2185646.0,90.0,10

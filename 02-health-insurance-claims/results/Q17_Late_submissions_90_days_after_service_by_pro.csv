@@ -1,0 +1,11 @@
+ProviderID,ProviderType,Claims,LateClaims,LateRate
+PRV0236,Pharmacy,1317,52,0.0395
+PRV0001,Hospital,1029,40,0.0389
+PRV0164,Polyclinic,1179,44,0.0373
+PRV0201,Pharmacy,1267,47,0.0371
+PRV0095,Polyclinic,1190,44,0.037
+PRV0130,Polyclinic,1238,45,0.0363
+PRV0063,Hospital,973,35,0.036
+PRV0215,Pharmacy,1340,48,0.0358
+PRV0070,Hospital,935,33,0.0353
+PRV0106,Polyclinic,1163,41,0.0353

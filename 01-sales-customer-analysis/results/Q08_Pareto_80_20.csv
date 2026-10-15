@@ -1,0 +1,4 @@
+ParetoClass,Customers,PctOfCustomers,Revenue,PctOfRevenue,AvgRevenuePerCustomer
+A (top 80% of revenue),1237,29.2,70219136.0,80.0,56766.0
+B (next 15%),1208,28.5,13179049.0,15.0,10910.0
+C (last 5%),1790,42.3,4390973.0,5.0,2453.0

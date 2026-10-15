@@ -1,0 +1,5 @@
+ProviderType,MedianDays,P90Days,SLA_Breach_Rate
+Hospital,26.0,53.0,0.4044
+Polyclinic,18.0,37.0,0.1826
+Pharmacy,18.0,37.0,0.1806
+Laboratory,18.0,37.0,0.1807
